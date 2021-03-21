@@ -1,0 +1,21 @@
+{
+  "name": "uploadplugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel index.html"
+  },
+  "keywords": [
+    "js",
+    "plugin"
+  ],
+  "author": "Boris Ponomarenko",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "firebase": "^8.2.5"
+  }
+}
